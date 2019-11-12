@@ -14,7 +14,7 @@ Continuous function = <hC(t).hC(0)>/<hC(0)^2>
 
 * To compile the program you can use any C compiler, e.g.:
 
-*gcc -o resid-time-acf.x resid-time-acf.c -lm*
+`gcc -o resid-time-acf.x resid-time-acf.c -lm`
 
 * To execute the program, you just have to launch it with an input file giving
 the following information (program < inputfile):
