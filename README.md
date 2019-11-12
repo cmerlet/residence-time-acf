@@ -22,8 +22,7 @@ the following information:
 `./resid-time-acf.x < inputfile`
 
 1. Name of the xyz file with the positions 
-
-- At this point the program only works for a constant number of atoms ordered in the same way 
+At this point the program only works for a constant number of atoms ordered in the same way 
 in all configurations.
 
 2. Number of configurations in the positions file
