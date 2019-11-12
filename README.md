@@ -41,4 +41,4 @@ in all configurations.
 
 6. Limits in the z direction 
 
-7. Number of correlations steps (> ncorr)
+7. Number of correlations steps
