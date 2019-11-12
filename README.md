@@ -16,10 +16,11 @@ Continuous function = <hC(t).hC(0)>/<hC(0)^2>
 
   `gcc -o resid-time-acf.x resid-time-acf.c -lm`
 
-* To execute the program, you just have to launch it with an input file giving
-the following information:
+* To execute the program, you just have to launch it with an input file using:
 
   `./resid-time-acf.x < inputfile`
+  
+  The input file should provide the following information
 
 1. Name of the xyz file with the positions 
    
