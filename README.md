@@ -17,11 +17,13 @@ Continuous function = <hC(t).hC(0)>/<hC(0)^2>
 `gcc -o resid-time-acf.x resid-time-acf.c -lm`
 
 * To execute the program, you just have to launch it with an input file giving
-the following information (program < inputfile):
+the following information:
+
+`./resid-time-acf.x < inputfile`
 
 1. Name of the xyz file with the positions 
 
-At this point the program only works for a constant number of atoms ordered in the same way 
+...At this point the program only works for a constant number of atoms ordered in the same way 
 in all configurations.
 
 2. Number of configurations in the positions file
