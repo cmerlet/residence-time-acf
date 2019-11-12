@@ -7,7 +7,9 @@ in and out of a defined region.
 S. A. Kislenko, R. H. Amirov, I. S. Samoylov, Phys. Chem. Chem. Phys., 12, 11245 (2010) 
 
 * The program calculates the autocorrelation functions for two heaviside functions, hI and hC:
+
 Intermittent function = <hI(t).hI(0)>/<hI(0)^2>
+
 Continuous function = <hC(t).hC(0)>/<hC(0)^2>
 
 * To compile the program you can use any C compiler, e.g.:
