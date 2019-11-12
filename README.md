@@ -31,7 +31,7 @@ in all configurations.
 
 3. Time between two configurations
 
-   Note that no conversion is done so the time unit in the output is the same as the unit of this time.
+   Note that no conversion is done so the time unit in the output is the same as the input.
 
 4. Number of species for which the calculation will be done
 
