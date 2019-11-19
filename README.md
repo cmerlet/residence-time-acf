@@ -29,16 +29,19 @@ in all configurations.
 
 2. Number of configurations in the positions file
 
-3. Time between two configurations
+3. Sampling parameter for configurations, i.e. configurations are considered every nskip
+   If nskip = 1, all configurations are considered.
+
+4. Time between two considered configurations
 
    Note that no conversion is done so the time unit in the output is the same as the input.
 
-4. Number of species for which the calculation will be done
+5. Number of species for which the calculation will be done
 
    Note that there is currently a limit of 1000 atom types.
 
-5. Atom type for each species (one line per species)
+6. Atom type for each species (one line per species)
 
-6. Limits in the z direction 
+7. Limits in the z direction 
 
-7. Number of correlations steps
+8. Number of correlations steps
