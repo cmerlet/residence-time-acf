@@ -30,6 +30,7 @@ in all configurations.
 2. Number of configurations in the positions file
 
 3. Sampling parameter for configurations, i.e. configurations are considered every nskip
+  
    If nskip = 1, all configurations are considered.
 
 4. Time between two considered configurations
